@@ -17,15 +17,15 @@ msgstr ""
 
 #: ../browser/quick_upload.py:411
 msgid " files uploaded with success, "
-msgstr ""
+msgstr "Upload erfolgreich"
 
 #: ../browser/quick_upload.py:412
 msgid " uploads return an error."
-msgstr ""
+msgstr "Upload fehlerhaft"
 
 #: ../browser/quick_upload.py:423
 msgid "A data base conflict error happened when uploading this file:"
-msgstr ""
+msgstr "Ein ZODB Conflict Error passierte beim Upload: "
 
 #: ../portlet/quickuploadportlet.py:91
 msgid "All"
@@ -33,7 +33,7 @@ msgstr "Alle"
 
 #: ../browser/quick_upload.py:410
 msgid "All files uploaded with success."
-msgstr ""
+msgstr "Alle Dateien wurden erfolgreich hochgelanden"
 
 #: ../portlet/quickuploadportlet.py:94
 msgid "Audio files"
@@ -45,23 +45,23 @@ msgstr "Box Titel"
 
 #: ../browser/quick_upload.py:408
 msgid "Browse"
-msgstr ""
+msgstr "Browse"
 
 #: ../browser/quick_upload.py:355
 msgid "Choose audio files to upload"
-msgstr ""
+msgstr "Audio Dateien zum Hochladen aussuchen"
 
 #: ../browser/quick_upload.py:363
 msgid "Choose file for upload: ${ext}"
-msgstr ""
+msgstr "Dateien zum Hochladen aussuchen: ${ext}"
 
 #: ../browser/quick_upload.py:358
 msgid "Choose flash files to upload"
-msgstr ""
+msgstr "Flash Dateien zum Hochlanden aussuchen"
 
 #: ../browser/quick_upload.py:349
 msgid "Choose images to upload"
-msgstr ""
+msgstr "Grafik Dateien zum Hochlanden aussuchen"
 
 #: ../portlet/quickuploadportlet.py:87
 msgid "Choose the media type used for file upload. image, audio, video ..."
@@ -73,7 +73,7 @@ msgstr "Wählen Sie die Standardkonfiguration um die Einstellungen der content t
 
 #: ../browser/quick_upload.py:352
 msgid "Choose video files to upload"
-msgstr ""
+msgstr "Video Dateien zum Hochlanden aussuchen"
 
 #: ../portlet/quickuploadportlet.py:78
 msgid "Content type"
